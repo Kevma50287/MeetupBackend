@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  host: MyString
+  participants: MyString
+  title: MyString
+  what: MyString
+  why: MyString
+  location: MyString
+  date: 2022-10-15 17:18:09
+
+two:
+  host: MyString
+  participants: MyString
+  title: MyString
+  what: MyString
+  why: MyString
+  location: MyString
+  date: 2022-10-15 17:18:09
